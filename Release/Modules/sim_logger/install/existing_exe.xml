@@ -1,0 +1,9 @@
+  <Launch.Addon>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Name>sim_logger</Name>
+    <Path>Modules\\sim_logger\\exe\\sim_logger.exe</Path>
+    <CommandLine></CommandLine>
+    <NewConsole>False</NewConsole>
+  </Launch.Addon>
+  

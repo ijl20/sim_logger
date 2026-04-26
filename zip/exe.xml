@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<SimBase.Document Type="Launch" version="1,0">
+  <Descr>Launch</Descr>
+  <Filename>exe.xml</Filename>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  
+  <Launch.Addon>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Name>CumulusX!</Name>
+    <Path>Modules\CumulusX!\CumulusX.exe</Path>
+    <CommandLine></CommandLine>
+    <NewConsole>True</NewConsole>
+  </Launch.Addon>
+
+  <Launch.Addon>
+    <Name>sim_logger</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\sim_logger\sim_logger.exe</Path>
+    <CommandLine>log="Modules\\sim_logger\\logs\\"</CommandLine>
+  </Launch.Addon>
+
+
+</SimBase.Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<SimBase.Document Type="Launch" version="1,0">
+  <Descr>Launch</Descr>
+  <Filename>dll.xml</Filename>
+  <Disabled>False</Disabled>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  <Launch.Addon>
+    <Name>B21 vario</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\b21_vario\b21_vario.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+
+</SimBase.Document>

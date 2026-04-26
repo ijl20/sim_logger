@@ -1,0 +1,8 @@
+  <Launch.Addon>
+    <Name>B21 vario</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\b21_vario\b21_vario.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>X3SI to X3SI</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1900</CruisingAlt>
+        <DepartureID>X3SI</DepartureID>
+        <DepartureLLA>N52° 49' 31.276286",W2° 12' 32.133894",+000318.00</DepartureLLA>
+        <DestinationID>X3SI</DestinationID>
+        <DestinationLLA>N52° 49' 40.199593",W2° 12' 13.800459",+000318.00</DestinationLLA>
+        <Descr>X3SI, X3SI</Descr>
+        <DeparturePosition>7</DeparturePosition>
+        <DepartureName>Seighford</DepartureName>
+        <DestinationName>Seighford</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="X3SI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 49' 31.276286",W2° 12' 32.133894",+000318.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>X3SI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EGWC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 38' 24.000485",W2° 18' 19.799681",+000269.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EGWC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pye Gn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 43' 18.953256",W2° 1' 8.698883",+000000.00</WorldPosition>
+            <Descr>Pye Green</Descr>
+        </ATCWaypoint>
+        <ATCWaypoint id="X3SI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 49' 40.199593",W2° 12' 13.800459",+000318.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>X3SI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

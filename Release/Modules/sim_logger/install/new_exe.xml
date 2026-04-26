@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<SimBase.Document Type="Launch" version="1,0">
+  <Descr>Launch</Descr>
+  <Filename>exe.xml</Filename>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  
+  <Launch.Addon>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Name>sim_logger</Name>
+    <Path>Modules\\sim_logger\\exe\\sim_logger.exe</Path>
+    <CommandLine></CommandLine>
+    <NewConsole>False</NewConsole>
+  </Launch.Addon>
+  
+</SimBase.Document>
+
